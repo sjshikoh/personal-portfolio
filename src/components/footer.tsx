@@ -8,7 +8,7 @@ const Footer = () => {
       <div className='flex items-center justify-between h-full max-w-7xl px-4 sm:px-6 md:px-8 lg:mx-auto xl:px-4'>
 
     <div className='flex gap-2 text-[24px]'>
-      <h1 className='text-[] font-bold text-[#B727A4]'>Shaista</h1>
+      <h1 className='text-[24px] font-bold text-[#B727A4]'>Shaista</h1>
       <span className='text-black font-bold'>Portfolio</span>
     </div>
     <nav className='h-[45px] '>

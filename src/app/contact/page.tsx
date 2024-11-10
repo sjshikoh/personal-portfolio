@@ -9,7 +9,7 @@ const Contact = () => {
         Interested in collaboration with me?
       </h2>
       <p className="text-center font-medium text-[30px] p-10">
-        I'm always open to discussing product design work or partnership
+        I am always open to discussing product design work or partnership
         opportunities
       </p>
       <div className="flex justify-center items-center gap-10">

@@ -12,7 +12,7 @@ const About = () => {
           Begining my journey as a freelance developer. I would love to remote
           work for agencies, consult for startups, and collaborate with talented
           people to create digital products for both business and consumer use.
-          I'm quietly confident, naturally curious, and perpetually working on
+          I am quietly confident, naturally curious, and perpetually working on
           improving my chops.
         </p>
       </div>
