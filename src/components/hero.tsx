@@ -14,7 +14,7 @@ const Hero = () => {
           I design and code beatifully simple things, and I love what I do
         </h3>
       </div>
-      <div className='items-center m-auto pl-96 '>
+      <div className='items-center m-auto pl-96 sm:pl-2 md:pl-52 lg:pl-96 '>
          {/* for Image */}
       <Image src={'/shaista1.png'} alt="profile-pic " width={514} height={513} />
       </div>
@@ -24,7 +24,7 @@ const Hero = () => {
           I can help developers with best practices as well.</p>
       </div>
        */}
-       <div className='items-center m-auto pl-[300px]'>
+       <div className='items-center m-auto pl-80 sm:pl-2 md:pl-52 lg:pl-80 '>
         <Image src={'/test.png'} alt='devices-pic' width={650} height={513} />
        </div>
      
